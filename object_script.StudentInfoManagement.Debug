@@ -1,0 +1,10 @@
+debug/AddStuInfoDlg.o
+debug/CDataSourceSQLite.o
+debug/CQSpinBoxDelegate.o
+debug/CStuInfo.o
+debug/IDataSource.o
+debug/main.o
+debug/widget.o
+debug/qrc_res.o
+debug/moc_AddStuInfoDlg.o
+debug/moc_widget.o

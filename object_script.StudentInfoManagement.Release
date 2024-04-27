@@ -1,0 +1,10 @@
+release/AddStuInfoDlg.o
+release/CDataSourceSQLite.o
+release/CQSpinBoxDelegate.o
+release/CStuInfo.o
+release/IDataSource.o
+release/main.o
+release/widget.o
+release/qrc_res.o
+release/moc_AddStuInfoDlg.o
+release/moc_widget.o
