@@ -1,0 +1,2 @@
+# StudentManagementSystem
+使用Qt实现学生管理系统。使用SQLite存储数据服务；QTableView+QStandardModel负责数据上显；QDelegateItem委托表格中的组件。
